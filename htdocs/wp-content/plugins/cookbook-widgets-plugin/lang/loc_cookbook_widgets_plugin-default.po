@@ -1,0 +1,728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookbook Widgets Plugin v1.0\n"
+"POT-Creation-Date: 2015-04-29 03:51+0100\n"
+"PO-Revision-Date: 2015-04-29 03:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/widgets/widget_cookbook_accordion.php:21
+msgid "Displays an accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:29
+msgid "Cookbook: Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:53
+#: .././inc/widgets/widget_cookbook_accordion.php:112
+msgid "Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:71
+#: .././inc/widgets/widget_cookbook_facebook.php:70
+#: .././inc/widgets/widget_cookbook_fact.php:68
+#: .././inc/widgets/widget_cookbook_more_posts.php:58
+#: .././inc/widgets/widget_cookbook_quote.php:66
+#: .././inc/widgets/widget_cookbook_single_event.php:65
+#: .././inc/widgets/widget_cookbook_statistics.php:78
+#: .././inc/widgets/widget_cookbook_toggle.php:71
+#: .././inc/widgets/widget_cookbook_twitter.php:64
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:60
+#: .././inc/widgets/widget_cookbook_vc_separator.php:59
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:68
+#: .././inc/widgets/widget_template.php:55
+msgid "Title"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:76
+msgid "Accordion sections"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:93
+#: .././inc/widgets/widget_cookbook_social_links.php:129
+#: .././inc/widgets/widget_cookbook_statistics.php:115
+#: .././inc/widgets/widget_cookbook_toggle.php:95
+msgid "Add"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_accordion.php:94
+#: .././inc/widgets/widget_cookbook_statistics.php:116
+#: .././inc/widgets/widget_cookbook_toggle.php:96
+msgid "Delete"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:21
+msgid "Display an animated number"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:29
+msgid "Cookbook: Animated Number"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:69
+msgid "Number"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:74
+msgid "Prefix"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:79
+msgid "Postfix"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:84
+#: .././inc/widgets/widget_cookbook_more_posts.php:96
+#: .././inc/widgets/widget_template.php:87
+msgid "Text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:89
+#: .././inc/widgets/widget_template.php:61
+msgid "Animation Speed"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:105
+#: .././inc/widgets/widget_template.php:78
+msgid "Comma seperator"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_animated_number.php:111
+msgid "Show text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:21
+msgid "Display Facebook box"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:29
+msgid "Cookbook: Facebook"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:56
+#: .././inc/widgets/widget_cookbook_facebook.php:136
+#: .././inc/widgets/widget_template.php:46
+msgid "Like us on facebook"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:75
+msgid "Facebook Page"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:80
+msgid "Width in pixels"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:85
+msgid "Color scheme"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:87
+msgid "Light"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:88
+msgid "Dark"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:97
+msgid "Show header"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:103
+msgid "Show wall"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:109
+msgid "Show faces"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_facebook.php:115
+msgid "Show border"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:21
+msgid "Displays a fact box"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:29
+msgid "Cookbook: Fact Box"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:53
+#: .././inc/widgets/widget_cookbook_fact.php:114
+msgid "Did You Know"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:73
+msgid "Fact 1st line"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:78
+#: .././inc/widgets/widget_cookbook_fact.php:88
+msgid "Fittext ratio"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:78
+msgid "higher numbers = smaller text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:83
+msgid "Fact 2nd line"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:93
+msgid "Fact text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:98
+msgid "Read More Link"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_fact.php:143
+msgid "more"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:21
+msgid "Display more posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:29
+msgid "Cookbook: More Posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:46
+#: .././inc/widgets/widget_cookbook_more_posts.php:139
+msgid "More posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:63
+msgid "What to show"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:65
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:82
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:46
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:69
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:77
+msgid "Latest posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:66
+msgid "Random posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:70
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:83
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:70
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:78
+msgid "Popular posts by views"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:71
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:84
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:71
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:79
+msgid "Popular posts by comments"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:92
+#: .././inc/widgets/widget_cookbook_social_links.php:80
+#: .././inc/widgets/widget_template.php:83
+msgid "Display style"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:94
+#: .././inc/widgets/widget_template.php:85
+msgid "Images linking to posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:95
+#: .././inc/widgets/widget_template.php:86
+msgid "Images linking to lightbox"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:101
+msgid "Number of posts"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_more_posts.php:114
+msgid "Number of image columns"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quicklinks.php:21
+msgid "Display a list of links"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quicklinks.php:29
+msgid "Cookbook: Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quicklinks.php:52
+#: .././inc/widgets/widget_cookbook_quicklinks.php:91
+msgid "Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quicklinks.php:70
+msgid "Title:"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quicklinks.php:75
+msgid "List of contact links"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quote.php:21
+msgid "Displays a quote"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quote.php:29
+msgid "Cookbook: Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quote.php:53
+#: .././inc/widgets/widget_cookbook_quote.php:71
+#: .././inc/widgets/widget_cookbook_quote.php:92
+msgid "Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_quote.php:76
+msgid "Byline"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:21
+msgid "Display Cookbook search"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:29
+msgid "Cookbook: Search"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:52
+#: .././inc/widgets/widget_cookbook_search.php:85
+msgid "Search"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:53
+#: .././inc/widgets/widget_cookbook_search.php:86
+msgid "Search..."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:64
+msgid "Title <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_search.php:69
+msgid "Placeholder text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:21
+msgid "Display a single event"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:29
+msgid "Cookbook: Single Event"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:53
+#: .././inc/widgets/widget_cookbook_single_event.php:144
+msgid "Event"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:74
+msgid ""
+"<i><strong>WARNING:</strong> This block requires <strong>The Events "
+"Calendar</strong> plugin. The required plugin could not be found. Please go "
+"to plugins and install/activate the required plugin!</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:90
+msgid "Select event"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:116
+msgid "Automatic Excerpt Size"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_single_event.php:246
+msgid "Find out more"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:21
+msgid "Display your social links as icons"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:29
+msgid "Cookbook: Social Links"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:53
+#: .././inc/widgets/widget_cookbook_social_links.php:146
+msgid "Social Links"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:75
+msgid "Title <i>(Optional)</i> :"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:82
+msgid "Standard"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:83
+msgid "Circle background"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:84
+msgid "Rounded box background"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:91
+msgid "Open social links in new window"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:96
+msgid "Social links:"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:117
+msgid "URL:"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_social_links.php:119
+msgid "delete"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:21
+msgid "Display statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:29
+msgid "Cookbook: Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:53
+#: .././inc/widgets/widget_cookbook_statistics.php:144
+msgid "Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:122
+msgid "Statistics text"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:127
+msgid "Read More Link (Optional)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_statistics.php:191
+msgid "Read More"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:21
+msgid "Displays tabs with popular posts, comments and tags."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:29
+msgid "Cookbook: Tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:46
+#: .././inc/widgets/widget_cookbook_tabs.php:171
+msgid "Trending"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:63
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:73
+msgid "Title (Optional)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:69
+msgid "Default tab"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:71
+#: .././inc/widgets/widget_cookbook_tabs.php:253
+#: .././inc/widgets/widget_cookbook_tabs.php:262
+msgid "Popular"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:72
+#: .././inc/widgets/widget_cookbook_tabs.php:254
+#: .././inc/widgets/widget_cookbook_tabs.php:330
+msgid "Comments"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:73
+#: .././inc/widgets/widget_cookbook_tabs.php:255
+#: .././inc/widgets/widget_cookbook_tabs.php:367
+msgid "Tags"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:79
+msgid "Show popular by"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:81
+msgid "Number of views"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:82
+msgid "Number of comments"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:88
+msgid "Number of popular posts to show"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:103
+msgid "Number of comments to show"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:118
+msgid "Number of tags to show"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:133
+msgid "Tag cloud smallest font size (pixels)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_tabs.php:148
+msgid "Tag cloud largest font size (pixels)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_toggle.php:21
+msgid "Displays a toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_toggle.php:29
+msgid "Cookbook: Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_toggle.php:53
+#: .././inc/widgets/widget_cookbook_toggle.php:114
+msgid "Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_toggle.php:77
+msgid "toggle sections"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:21
+msgid "Display Twitter feed"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:29
+msgid "Cookbook: Twitter"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:52
+#: .././inc/widgets/widget_cookbook_twitter.php:111
+msgid "Latest tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:69
+msgid "Twitter widget code"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:71
+msgid "Generate you own widget code here"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:81
+msgid "Use theme design instead?"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:86
+msgid "Number of tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_twitter.php:129
+msgid "Please insert your Twitter widget code!"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:21
+msgid ""
+"Displays a post carousel. Custom element for use with Visual Composer. May "
+"also be used as a widget. Please notice that this widget was designed with a "
+"specific layout in mind and may not look good in all possible layouts."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:29
+msgid "Cookbook VC: Posts Carousel"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:80
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:67
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:75
+msgid "Get posts from"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:106
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:93
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:101
+msgid "Begin at post number"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:120
+msgid "Number of posts to load"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:134
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:107
+msgid "Number of posts to show"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:148
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:121
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:115
+msgid "Meta"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:150
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:123
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:117
+msgid "Publish date"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:151
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:124
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:118
+msgid "Categories"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:158
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:124
+msgid "Excerpt length"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:174
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:140
+msgid "Use category and title as image caption"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:181
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:147
+msgid "Hide featured media"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:188
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:154
+msgid "Hide comments count"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:195
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:132
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:161
+msgid "Hide rating"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:202
+msgid "Hide categories"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:209
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:175
+msgid "Hide title"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:216
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:182
+msgid "Hide excerpt"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:223
+msgid "Hide carousel pagination"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:230
+msgid "Slide speed (ms)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:244
+msgid "Autoplay speed (ms) (0 is off)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:381
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:287
+msgid "Sorry, no posts matched your query!"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_carousel.php:418
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:321
+msgid "Score"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:21
+msgid ""
+"Displays a list of posts. Custom element for use with Visual Composer. May "
+"also be used as a widget. Please notice that this widget was designed with a "
+"specific layout in mind and may not look good in all possible layouts."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_posts_listed.php:29
+msgid "Cookbook VC: Posts Listed"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:21
+msgid ""
+"Displays a separator. Custom element for use with Visual Composer. May also "
+"be used as a widget. Please notice that this widget was designed with a "
+"specific layout in mind and may not look good in all possible layouts."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:29
+msgid "Cookbook VC: Separator"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:66
+msgid "Style"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:68
+msgid "Line"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:69
+msgid "Bar"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:75
+msgid "Link text (optional)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_separator.php:81
+msgid "Link (URL)"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:21
+msgid ""
+"Displays a single post. Custom element for use with Visual Composer. May "
+"also be used as a widget. Please notice that this widget was designed with a "
+"specific layout in mind and may not look good in all possible layouts."
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:29
+msgid "Cookbook VC: Single Post"
+msgstr ""
+
+#: .././inc/widgets/widget_cookbook_vc_single_post.php:168
+msgid "Hide meta"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:21
+msgid "YOUR STANDARD TEMPLATE BANNER"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:29
+msgid "TEMPLATE_DISPLAY_TITLE"
+msgstr ""

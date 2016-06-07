@@ -1,0 +1,79 @@
+/************************************
+ADMIN-STYLE.CSS
+
+UTILITY CLASSES
+
+WIDGET: GENERAL
+WIDGET SORTABLE
+
+WIDGET: SOCIAL LINKS
+
+*************************************/
+
+/************************************
+UTILITY CLASSES
+*************************************/
+
+	.float_right {
+		float: right;	
+	}
+
+	.hidden {
+		display: : none;	
+	}
+	
+
+/************************************
+WIDGET: GENERAL
+*************************************/
+
+	.widget select {
+		max-width: 100%;	
+	}
+
+/************************************
+WIDGET SORTABLE
+*************************************/
+
+	.widget_sortable li {
+		background-color: #e6e6e6;
+		border: 1px solid #c2c2c2;
+		padding: 5px;
+		cursor: move;
+	}	
+
+	.widget_sortable_placeholder {
+		background-color: #c9c9c9;
+		border: 1px dotted #c2c2c2;
+		height: 30px;
+	}
+
+	.widget_sortable.ui-sortable select{
+		max-width: 125px;
+	}
+	
+/************************************
+WIDGET: SOCIAL LINKS
+*************************************/
+
+	.widget-social-links-sortable i {
+		border: 1px solid #dddddd;
+		background-color: #ffffff;
+		color: #FC604A;
+		display: inline-block;
+		font-size: 16px;
+		text-align: center;
+		height: 28px;
+		width: 28px;
+		line-height: 28px;
+		vertical-align: top;
+		margin: 3px 10px 0 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;	
+	}
+
+	.widget-social-links-sortable input {
+		width: 45%;
+	}
+

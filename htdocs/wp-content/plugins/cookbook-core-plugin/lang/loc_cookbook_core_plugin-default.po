@@ -1,0 +1,786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookbook Core Plugin v1.0\n"
+"POT-Creation-Date: 2015-04-29 03:50+0100\n"
+"PO-Revision-Date: 2015-04-29 03:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:49
+msgid "Cookbook: Posts Carousel"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:50
+msgid "Displays a posts carousel"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:54
+#: .././inc/canon_shortcodes/canon_posts_listed.php:54
+#: .././inc/canon_shortcodes/canon_royalslider.php:41
+#: .././inc/canon_shortcodes/canon_separator.php:54
+#: .././inc/canon_shortcodes/canon_single_post.php:53
+#: .././inc/canon_shortcodes/canon_template.php:60
+msgid "Theme Elements"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:60
+#: .././inc/canon_shortcodes/canon_posts_listed.php:60
+#: .././inc/canon_shortcodes/canon_separator.php:60
+#: .././inc/canon_shortcodes/canon_single_post.php:59
+#: .././inc/canon_shortcodes/canon_template.php:66
+msgid "Wiget Title"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:63
+#: .././inc/canon_shortcodes/canon_posts_listed.php:63
+#: .././inc/canon_shortcodes/canon_single_post.php:62
+#: .././inc/canon_shortcodes/canon_template.php:69
+msgid "The widget title (can be empty for no widget title)"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:68
+#: .././inc/canon_shortcodes/canon_posts_listed.php:68
+#: .././inc/canon_shortcodes/canon_single_post.php:67
+msgid "Get posts from"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:71
+#: .././inc/canon_shortcodes/canon_posts_listed.php:71
+#: .././inc/canon_shortcodes/canon_single_post.php:70
+msgid "Select what group of posts to pull from."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:77
+#: .././inc/canon_shortcodes/canon_posts_listed.php:77
+#: .././inc/canon_shortcodes/canon_single_post.php:76
+msgid "Begin at post number"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:81
+#: .././inc/canon_shortcodes/canon_posts_listed.php:81
+#: .././inc/canon_shortcodes/canon_single_post.php:80
+msgid "Select what post to show from the selected group."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:86
+msgid "Number of posts to load"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:90
+msgid "Select how many posts to load."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:95
+#: .././inc/canon_shortcodes/canon_posts_listed.php:86
+msgid "Number of posts to show"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:99
+#: .././inc/canon_shortcodes/canon_posts_listed.php:90
+msgid "How many posts to show in the carousel."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:103
+#: .././inc/canon_shortcodes/canon_posts_listed.php:94
+#: .././inc/canon_shortcodes/canon_single_post.php:84
+msgid "Meta"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:106
+#: .././inc/canon_shortcodes/canon_posts_listed.php:98
+#: .././inc/canon_shortcodes/canon_single_post.php:87
+msgid "Categories"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:107
+#: .././inc/canon_shortcodes/canon_posts_listed.php:97
+#: .././inc/canon_shortcodes/canon_single_post.php:88
+msgid "Publish date"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:109
+#: .././inc/canon_shortcodes/canon_posts_listed.php:100
+#: .././inc/canon_shortcodes/canon_separator.php:73
+#: .././inc/canon_shortcodes/canon_single_post.php:90
+#: .././inc/canon_shortcodes/canon_template.php:121
+msgid "Separator style."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:114
+#: .././inc/canon_shortcodes/canon_single_post.php:95
+#: .././inc/canon_shortcodes/canon_template.php:91
+msgid "Excerpt length"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:118
+#: .././inc/canon_shortcodes/canon_single_post.php:99
+#: .././inc/canon_shortcodes/canon_template.php:95
+msgid "Length of excerpt."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:123
+#: .././inc/canon_shortcodes/canon_single_post.php:104
+msgid "Use meta and title as image caption"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:128
+#: .././inc/canon_shortcodes/canon_single_post.php:109
+#: .././inc/canon_shortcodes/canon_template.php:100
+msgid "Hide featured media"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:133
+#: .././inc/canon_shortcodes/canon_single_post.php:114
+msgid "Hide comments count"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:138
+#: .././inc/canon_shortcodes/canon_posts_listed.php:105
+#: .././inc/canon_shortcodes/canon_single_post.php:119
+msgid "Hide rating"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:143
+#: .././inc/canon_shortcodes/canon_single_post.php:124
+msgid "Hide meta"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:148
+#: .././inc/canon_shortcodes/canon_single_post.php:129
+#: .././inc/functions/functions_cmb_pages.php:91
+#: .././inc/functions/functions_cmb_pages.php:109
+msgid "Hide title"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:153
+#: .././inc/canon_shortcodes/canon_single_post.php:134
+msgid "Hide excerpt"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:158
+msgid "Hide carousel pagination"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:163
+msgid "Slide speed"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:167
+msgid "Speed of slide transition (ms)"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:172
+msgid "Autoplay speed"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_carousel.php:176
+msgid "Autoplay speed (ms) (0 is off)"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_listed.php:49
+msgid "Cookbook: Posts Listed"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_posts_listed.php:50
+msgid "Displays a list of posts"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:18
+msgid "<i>New RoyalSlider plugin missing!</i>"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:36
+msgid "Cookbook: New RoyalSlider"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:37
+msgid "Displays a RoyalSlider"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:46
+msgid "RoyalSlider"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:48
+msgid "Select the slider to display"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:52
+#: .././inc/canon_shortcodes/canon_separator.php:91
+#: .././inc/canon_shortcodes/canon_template.php:109
+msgid "Extra class name"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_royalslider.php:54
+#: .././inc/canon_shortcodes/canon_separator.php:93
+#: .././inc/canon_shortcodes/canon_template.php:111
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:49
+msgid "Cookbook: Separator"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:50
+msgid "Displays a text separator"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:62
+msgid "Latest Posts"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:63
+msgid "The separator title."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:67
+#: .././inc/canon_shortcodes/canon_template.php:115
+msgid "Style"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:70
+#: .././inc/canon_shortcodes/canon_template.php:118
+msgid "Line"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:71
+#: .././inc/canon_shortcodes/canon_template.php:119
+msgid "Bar"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:77
+msgid "Link text"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:80
+msgid "Link text (leave blank for no link.)"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:84
+msgid "Link"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_separator.php:87
+msgid "The URL."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_shortcodes.php:44
+#: .././inc/functions/functions_cmb_posts.php:667
+msgid "Latest posts"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_shortcodes.php:45
+#: .././inc/functions/functions_cmb_posts.php:668
+msgid "Random posts"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_shortcodes.php:46
+msgid "Popular by views"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_shortcodes.php:47
+msgid "Popular by comments"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_single_post.php:48
+msgid "Cookbook: Single Post"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_single_post.php:49
+msgid "Displays a single post"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:55
+msgid "VC_NAME"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:56
+msgid "VC_DESCRIPTION"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:74
+#: .././inc/functions/functions_cmb_posts.php:664
+msgid "Show"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:77
+msgid "Select what posts to show."
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:82
+msgid "Number of posts"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:86
+msgid "Number of posts to display"
+msgstr ""
+
+#: .././inc/canon_shortcodes/canon_template.php:105
+msgid "Hide meta info box"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:77
+msgid "No additional page settings available for this template type."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:137
+#: .././inc/functions/functions_cmb_posts.php:304
+msgid "Select sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:160
+msgid "Gallery Settings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:167
+msgid "Gallery Style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:170
+msgid "Gallery Slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:171
+msgid "Gallery Isotope"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:178
+msgid "Isotope gallery: number of columns"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:192
+#: .././inc/functions/functions_cmb_posts.php:724
+msgid ""
+"Add WordPress galleries using the Add Media button. You can add as many "
+"WordPress galleries as you would like."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:193
+msgid ""
+"You can add a caption to each image when creating your WordPress gallery."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:194
+msgid ""
+"The images and captions from these WordPress galleries will be used in the "
+"gallery."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:195
+#: .././inc/functions/functions_cmb_posts.php:726
+msgid ""
+"The images will appear in the same order as they appear in the galleries. "
+"Duplicate images will be removed."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:196
+msgid ""
+"You can use the Text editor to rearrange the WordPress gallery shortcodes"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:197
+msgid ""
+"You can use the Text editor to add a category attribute to the shortcodes e."
+"g. [gallery ids=\"1,2,3\" category=\"My Category\"]"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:233
+msgid "Display as sitemap"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:43
+msgid "Prep Time"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:44
+msgid "15 mins"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:47
+msgid "Cook Time"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:48
+msgid "30 mins"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:51
+msgid "Yields"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:52
+msgid "18"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:59
+msgid "2 Cups - Organic Plain Flour"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:66
+msgid "Heat oven to 190°C/fan 170°C/gas 5"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:73
+msgid "Review"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:76
+msgid "My First Parameter"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:169
+msgid "General"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:179
+msgid "Quote byline"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:194
+msgid "Post style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:197
+msgid "Standard post no sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:198
+msgid "Standard post with sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:199
+msgid "Multi-post no sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:200
+msgid "Multi-post with sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:213
+msgid "Multi post intro"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:231
+msgid "Feature style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:234
+msgid "Featured image"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:235
+msgid "Use embeddable media instead of featured image"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:236
+msgid "Use featured image but open media link in lightbox"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:243
+msgid "Featured media - <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:262
+msgid "Hide from popular lists"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:278
+msgid "Hide featured image in post"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:328
+msgid "Post Component: Recipe box"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:334
+msgid "Show recipe box"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:345
+#: .././inc/functions/functions_cmb_posts.php:517
+#: .././inc/functions/functions_cmb_posts.php:646
+msgid "Title"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:359
+msgid "Show meta"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:368
+msgid "Meta field label"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:370
+msgid "text"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:388
+msgid "Show ingredients list"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:394
+msgid "Ingredients list title"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:411
+#: .././inc/functions/functions_cmb_posts.php:454
+#: .././inc/functions/functions_cmb_posts.php:570
+msgid "delete"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:420
+#: .././inc/functions/functions_cmb_posts.php:463
+#: .././inc/functions/functions_cmb_posts.php:579
+msgid "Add"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:431
+msgid "Show method list"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:437
+msgid "Method list title"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:474
+msgid "Additional info title"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:482
+msgid "Additional info text <i>(accepts shortcodes and some HTML)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:502
+msgid "Post Component: Ratings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:508
+msgid "Show ratings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:525
+msgid ""
+"Overall score <i>(if decimal score remember to use period as decimal mark)</"
+"i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:533
+msgid "Out of a total <i>(required for parameters)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:541
+msgid "Summary"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:556
+msgid "Show parameters"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:566
+msgid "Parameter name"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:568
+msgid "Score"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:596
+msgid "Post Component: Tags"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:602
+msgid "Show tags"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:614
+msgid "Post Component: About the Author"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:620
+msgid "Show About the Author box"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:631
+msgid "Post Component: Related posts"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:637
+msgid "Show related posts"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:666
+msgid "Same category as post"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:671
+msgid "Popular posts by views"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:672
+msgid "Popular posts by comments"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:678
+msgid "category"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:689
+msgid "Number of items to display at a time"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:711
+msgid "Post Slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:717
+msgid "Show post slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:723
+msgid "The post slider will replace the featured image at the top of the post."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:725
+msgid ""
+"The images from these WordPress galleries will be used in the post slider."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_template.php:74
+msgid "Client"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:34
+msgid "Add New Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:35
+msgid "Edit Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:36
+msgid "New Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:37
+msgid "All Templatefirstcaps"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:38
+msgid "View Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:39
+msgid "Search Templatefirstcaps"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:40
+msgid "No templatelowercases found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:41
+msgid "No templatelowercases found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:70
+#, php-format
+msgid "Templatefirstcap updated. <a href=\"%s\">View templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:71
+msgid "Custom field updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:72
+msgid "Custom field deleted."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:73
+msgid "Templatefirstcap updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:74
+#, php-format
+msgid "Templatefirstcap restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:75
+#, php-format
+msgid "Templatefirstcap published. <a href=\"%s\">View templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:76
+msgid "Templatefirstcap saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:77
+#, php-format
+msgid ""
+"Templatefirstcap submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:78
+#, php-format
+msgid ""
+"Templatefirstcap scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:78
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:79
+#, php-format
+msgid ""
+"Templatefirstcap draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:95
+msgid "Search Templatefirstcap Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:96
+msgid "All Templatefirstcap Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:97
+msgid "Parent Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:98
+msgid "Parent Templatefirstcap Category:"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:99
+msgid "Edit Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:100
+msgid "Update Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:101
+msgid "Add New Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:102
+msgid "New Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:103
+msgid "Templatefirstcap Categories"
+msgstr ""

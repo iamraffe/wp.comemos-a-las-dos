@@ -1,0 +1,164 @@
+/************************************
+CORE PLUGIN STYLE.CSS										 
+
+CMB GENERAL
+CMB POST: CMB UL SORTABLE
+CMB POST: INFO BOX
+VISUAL COMPOSER
+
+*************************************/
+
+/************************************
+CMB GENERAL
+*************************************/
+
+	/* COLOR BOX */ 
+	#canon_cmb_pages .hndle, 
+	#canon_cmb_posts .hndle
+	{ 
+		background: #4ec6e9;
+		color: #2d3438;
+		text-shadow: none;
+	}
+
+	.option_heading {
+		background: rgb(220, 220, 220);
+		background: -moz-linear-gradient(90deg, rgb(220, 220, 220) 50%, rgb(230, 230, 230) 100%);
+		background: -webkit-linear-gradient(90deg, rgb(220, 220, 220) 50%, rgb(230, 230, 230) 100%);
+		background: -o-linear-gradient(90deg, rgb(220, 220, 220) 50%, rgb(230, 230, 230) 100%);
+		background: -ms-linear-gradient(90deg, rgb(220, 220, 220) 50%, rgb(230, 230, 230) 100%);
+		background: linear-gradient(90deg, rgb(220, 220, 220) 50%, rgb(230, 230, 230) 100%);
+		margin:0 -12px 0 -10px;
+		height:30px;
+		border-bottom:1px solid #D1D1D1;
+	}
+
+	.option_heading.top {
+		margin:14px -10px 0 -10px;
+		border-top:1px solid #EEE;
+	}
+
+	.option_heading span {
+		font-size:12px;
+		font-weight:bold;
+		line-height:30px;
+		padding-left:10px;
+		color:#555;
+		text-shadow: 1px 1px 0 rgba(255, 255, 255, 1);
+	}
+
+	.option_item {
+		background:#FFF;
+		margin:0 -10px 0 -10px;
+		border-bottom:1px solid #EEE;
+		padding:14px 10px 14px 10px;
+	}
+	.option_item .option_checkbox {
+		margin-right:8px;
+	}
+
+	.option_item span.text {
+		float:left;
+		display:block;
+		width:86px;
+		margin-top:5px;
+	}
+
+	.option_item label {
+		margin-bottom:3px;
+		display:inline-block;
+	}
+	
+	.item_hint {
+		font-style: italic;
+		color: #8a8a8a;	
+	}
+
+	.default-hidden {
+		display: none;	
+	}
+
+	.option_item .colorSelectorBox {
+		float: right;	
+	}
+
+	.option_item .cmb_input {
+		width: 30%;	
+	}
+
+
+/*SOCIAL LINKS PREVIEW*/
+
+		.cmb_social_links i {
+			background: none repeat scroll 0 0 #FFFFFF;
+			border: 1px solid #CCCCCC;
+			border-radius: 3px 3px 3px 3px;
+			color: #FC604A;
+			display: inline-block;
+			font-size: 14px;
+			min-width: 25px;
+			padding: 5px;
+			text-align: center;
+		}
+
+	.togglable {
+		cursor: pointer;	
+	}
+
+/* INPUT TEXT */
+
+	.cmb_social_links input[type='text'] {
+		width: 470px;	
+	}
+
+
+	.wp_galleries_source_hints {
+		list-style: disc;
+		margin: 10px 0 20px 20px;
+		line-height: 1em;
+		font-style: italic;
+	}
+
+
+/************************************
+CMB POST: CMB UL SORTABLE
+*************************************/
+
+	.cmb-ul-sortable .ul_sortable li {
+		background-color: #e6e6e6;
+		border: 1px solid #c2c2c2;
+		padding: 10px;
+		cursor: move;
+	}
+
+	.cmb-ul-sortable .ul_sortable label {
+		margin-right: 5px;	
+	}
+
+	.cmb-ul-sortable .ul_sortable input {
+		margin-right: 20px;	
+	}
+
+	.cmb-ul-sortable .ul_sortable .ul_sortable_placeholder {
+		background-color: #f6f6f6;
+		border: 2px dashed #c2c2c2;
+		height: 30px;
+	}
+
+/************************************
+CMB POST: INFO BOX
+*************************************/
+
+	.info-ul .ul_sortable input[type=text], 
+	.info-ol .ul_sortable input[type=text]  {
+		width: 93%;
+	}
+	
+
+/************************************
+VISUAL COMPOSER
+*************************************/
+
+.wpb-content-layouts .wpb-layout-element-button .canon_shortcode_icon, .vc_element-icon.canon_shortcode_icon {
+	background-image: url("../img/vc-tc-icon.png");
+}
